@@ -1615,7 +1615,12 @@
     "otherChannelsPersonal": "Percakapan grup lain",
     "titleBar": {
       "back": "Kembali",
-      "forward": "Maju"
+      "forward": "Maju",
+      "window": "Jendela",
+      "minimize": "Minimalkan",
+      "maximize": "Maksimalkan",
+      "restore": "Pulihkan",
+      "close": "Tutup"
     },
     "unshown": "Tidak bisa ditampilkan",
     "more": "Lainnya",
